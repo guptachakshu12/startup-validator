@@ -186,6 +186,9 @@ I wanted to build something that:
 
 ---
 
+<img width="708" height="812" alt="image" src="https://github.com/user-attachments/assets/4c4b160e-ac1d-4c0d-aabc-b504209f4f96" />
+
+
 ## 📦 Installation & Setup
 
 Clone the repo:

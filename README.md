@@ -188,6 +188,9 @@ I wanted to build something that:
 
 <img width="708" height="812" alt="image" src="https://github.com/user-attachments/assets/4c4b160e-ac1d-4c0d-aabc-b504209f4f96" />
 
+<img width="487" height="900" alt="image" src="https://github.com/user-attachments/assets/544f6d54-e06a-4fd5-a06e-10a33bf16296" />
+
+
 
 ## 📦 Installation & Setup
 
